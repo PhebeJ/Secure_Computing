@@ -1,9 +1,9 @@
 # Secure Computing
 This Repository holds all the Projects done as part of Secure Computing Laboratory: 
 1) Using **CRYPTOOL** do the following: 
-  a) Familiarise Encryption/Decryption of various methods
-  b) Cryptanalysis
-  c) Digital Signature generation/ Verification
+i) Familiarise Encryption/Decryption of various methods
+ii) Cryptanalysis
+iii) Digital Signature generation/ Verification
 2) Using **OPEN SSL** familiarise the following
   a) Encryption/ Decryption using AES
   b) RSA - public and private key generation - Encryption / Decryption
