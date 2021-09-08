@@ -5,9 +5,3 @@ This Repository holds all the Projects done as part of Secure Computing Laborato
  3) Program to implement the **SHA-1**, Secure Hash Alogorithm.
  4) Program to implement the **Digital Signature Algorithm.**
  5) Program to implement the **Diffie-Hellman Key exchange  Algorithm.**
- 6) Program to implement **Elliptic Curve Cryptography** algorithm.
- 7) **ICMP Ping** using OPNET
- 8) **RIP** implementation using OPNET 
- 9) **OSPF** implementation using OPNET
- 10) **VLAN** implementation using Packet Tracer
- 11) **VPN** implementation using Packet Tracer
